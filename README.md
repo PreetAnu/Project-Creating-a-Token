@@ -1,4 +1,4 @@
-# Project-Creating-a-Token
+# Creating a Token
 This Solidity program is a simple token creation contract that demonstrates the basic functionalities and features of token management on the Ethereum blockchain. The purpose of this program is to provide a starting point for those who are new to Solidity and want to learn how to create and manage their own tokens.
 
 ## Description
